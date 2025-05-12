@@ -1,3 +1,3 @@
 # Challenge_DataScience_Oracle_Next_education
-Analsis de tiendas
+Tras el analisis la sucursal que debe cerrar es Manizales
 # data_Science_ONE
